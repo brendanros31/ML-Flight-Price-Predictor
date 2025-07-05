@@ -1,6 +1,6 @@
 # ML-Flight-Price-Predictor
 
-This project predicts airline Ticket Prices using various regression models - Linear regression, Decision Tree regressor, and Random Forest regressor. 
+This project predicts Airline Ticket Prices using various regression models - Linear regression, Decision Tree regressor, and Random Forest regressor. 
 
 It includes Data Analysis, Feature Engineering, Model Training, and Evaluation using metrics like r2 Score, MSE, RMSE, MAE and RMAE.
 
