@@ -6,6 +6,10 @@ It includes Data Analysis, Feature Engineering, Model Training, and Evaluation u
 
 ## How to Use
 ```bash
+git clone https://github.com/brendanros31/ML-Flight-Price-Predictor.git
+
+cd ML-Flight-Price-Predictor
+
 pip install -r requirements.txt
 python main.ipynb
 ```
